@@ -1,0 +1,14 @@
+F:\visualstudio\tasks by function\functions\funcsions\funcsions\obj\Debug\net8.0\funcsions.GeneratedMSBuildEditorConfig.editorconfig
+F:\visualstudio\tasks by function\functions\funcsions\funcsions\obj\Debug\net8.0\funcsions.AssemblyInfoInputs.cache
+F:\visualstudio\tasks by function\functions\funcsions\funcsions\obj\Debug\net8.0\funcsions.AssemblyInfo.cs
+F:\visualstudio\tasks by function\functions\funcsions\funcsions\obj\Debug\net8.0\funcsions.csproj.CoreCompileInputs.cache
+F:\visualstudio\tasks by function\functions\funcsions\funcsions\bin\Debug\net8.0\funcsions.exe
+F:\visualstudio\tasks by function\functions\funcsions\funcsions\bin\Debug\net8.0\funcsions.deps.json
+F:\visualstudio\tasks by function\functions\funcsions\funcsions\bin\Debug\net8.0\funcsions.runtimeconfig.json
+F:\visualstudio\tasks by function\functions\funcsions\funcsions\bin\Debug\net8.0\funcsions.dll
+F:\visualstudio\tasks by function\functions\funcsions\funcsions\bin\Debug\net8.0\funcsions.pdb
+F:\visualstudio\tasks by function\functions\funcsions\funcsions\obj\Debug\net8.0\funcsions.dll
+F:\visualstudio\tasks by function\functions\funcsions\funcsions\obj\Debug\net8.0\refint\funcsions.dll
+F:\visualstudio\tasks by function\functions\funcsions\funcsions\obj\Debug\net8.0\funcsions.pdb
+F:\visualstudio\tasks by function\functions\funcsions\funcsions\obj\Debug\net8.0\funcsions.genruntimeconfig.cache
+F:\visualstudio\tasks by function\functions\funcsions\funcsions\obj\Debug\net8.0\ref\funcsions.dll
